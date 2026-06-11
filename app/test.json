@@ -1,17 +1,1 @@
-[
-    {'page_content': 'The bot password for bot name "RAG_BOT" of user "Kipngetich204" was created.\n\nThe new password to log in with Kipngetich204@RAG_BOT is ncue47frs91ph2rrhu40638fbfsdncai. Please record this for future reference.\n(For old bots which require the login name to be the same as the eventual username, you can also use Kipngetich204 as username and\nRAG_BOT@ncue47frs91ph2rrhu40638fbfsdncai as password.)\n\nReturn to Special:BotPasswords.\n\nTools hide\nGeneral\n\nUpload file\nPrintable version\n\nGet shortened URL', 'metadata': {'source': 'data\\example.png', 'type': 'image'
-        }, 'score': np.float64(1.500202798463894)
-    },
-    {'page_content': 'WIKIPEDIA®\n\n25 years of the free encyclopedia\n\nMain menu hide\n\nMain page\nContents\nCurrent events\nRandom article\nAbout Wikipedia\nContact us\nDonate\n\nContribute\n\nHelp\n\nLear to edit\nCommunity portal\nRecent changes\nUpload file\n\nSpecial pages\n\nQ Search La |\n\nune Se rourupe WIapS ke (Na! voogie Semin Mlasomo wm view LJ\n| Q Search Wikipedia Search Kipngetich204 a Ca\nBot password created Orep', 'metadata': {'source': 'data\\example.png', 'type': 'image'
-        }, 'score': np.float64(1.069960059393283)
-    },
-    {'page_content': "Bot passwords allow access to a user account via the API without using the account's main login credentials. The user rights available when logged in with a\nbot password may be restricted.\n\nIf you don't know why you might want to do this, you should probably not do it. No one should ever ask you to generate one of these and give it to them. For an\noverview of using BotPasswords with some common tools, see Wikipedia:Using AWB with 2FA.", 'metadata': {'source': 'data\\example.png', 'type': 'image'
-        }, 'score': np.float64(0.9508227051900002)
-    },
-    {'page_content': "Brian Kipngetich\nAI Data Reviewer & UX Research Specialist\nkipngetichbrian204@gmail.com | Nairobi, Kenya | linkedin.com/in/brian-kipngetich\nPROFESSIONAL SUMMARY\nDetail-oriented software engineer and UX researcher with over five years of hands-on experience evaluating\ndigital interfaces, annotating complex data, and translating user behavior into actionable insights. Holds a\nMaster's degree in Software Engineering from the University of Nairobi and a Bachelor's degree in Software", 'metadata': {'producer': 'ReportLab PDF Library - (opensource)', 'creator': '(unspecified)', 'creationdate': '2026-05-26T11: 27: 38+00: 00', 'author': '(anonymous)', 'keywords': '', 'moddate': '2026-05-26T11: 27: 38+00: 00', 'subject': '(unspecified)', 'title': '(anonymous)', 'trapped': '/False', 'source': 'data\\Brian_Kipngetich_Resume.pdf', 'total_pages': 2, 'page': 0, 'page_label': '1'
-        }, 'score': np.float64(0.0)
-    },
-    {'page_content': 'Engineering from Kirinyaga University. Adept at navigating diverse software environments — from admin\ndashboards and CRM platforms to modern web applications — with a sharp eye for distinguishing observable\nevidence from assumptions. Comfortable working independently in remote settings and collaborating with\nglobally distributed teams.\nWORK EXPERIENCE\nUX Research & Data Review Specialist\nTechBridge Solutions Ltd | Nairobi, Kenya | 2021 – Present', 'metadata': {'producer': 'ReportLab PDF Library - (opensource)', 'creator': '(unspecified)', 'creationdate': '2026-05-26T11: 27: 38+00: 00', 'author': '(anonymous)', 'keywords': '', 'moddate': '2026-05-26T11: 27: 38+00: 00', 'subject': '(unspecified)', 'title': '(anonymous)', 'trapped': '/False', 'source': 'data\\Brian_Kipngetich_Resume.pdf', 'total_pages': 2, 'page': 0, 'page_label': '1'
-        }, 'score': np.float64(0.0)
-    }
-]
+
