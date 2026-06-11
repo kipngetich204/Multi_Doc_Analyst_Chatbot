@@ -1,0 +1,32 @@
+# Requirements for the multi_doc project
+# Install with: python -m pip install -r requirements.txt
+
+# --- Core runtime dependencies ---
+requests
+python-dotenv
+beautifulsoup4
+pillow
+pytesseract
+opencv-python
+pypdf
+
+# Sentence-transformers for dense embeddings
+sentence-transformers
+
+# Vector DB and retrieval
+chromadb
+rank-bm25>=0.2.2
+
+# LangChain related packages (community & text splitters)
+langchain-community
+langchain-text-splitters
+
+# Optional extras (UI, integrations, dev)
+streamlit  # optional: lightweight UI
+ollama     # optional: local LLM runtime (if used)
+
+# Type / validation
+pydantic>=2.7.0
+
+# NOTE: Some packages (e.g., chromadb, sentence-transformers, opencv-python)
+# may require system-level dependencies or additional setup (CUDA for GPU).
